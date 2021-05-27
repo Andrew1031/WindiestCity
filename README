@@ -1,1 +1,5 @@
+Goal of this program is to inform tourists traveling California who want to check quick weather data about the different cities.
+
 Makes hundreds of API calls to store wind speeds of every city in California in a SQLite database, then queries through database upon clicking the button in the React-native front end, and displays the result.
+
+Currently a work in progress. More features will be added to this program. 
